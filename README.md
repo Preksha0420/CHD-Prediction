@@ -1,7 +1,7 @@
 # CHD-Prediction
 This project aims to predict the risk of Coronary Heart Disease (CHD) using machine learning techniques. The system consists of a Jupyter notebook for data analysis and model training, a Flask web application for user interaction, and necessary files for deployment. The core of the system lies in a Jupyter notebook, heart_disease_prediction.ipynb, which serves as the backbone for data analysis, feature engineering, model training, and evaluation.
 
-Jupyter Notebook Highlights:
+**Jupyter Notebook Highlights:**
 Data Analysis: Explore and understand the provided dataset (framingham.csv) through descriptive statistics, data visualization, and preliminary insights into potential predictors of CHD.
 
 Feature Engineering: Transform raw data into meaningful features suitable for model training, including handling missing values, feature scaling, and possibly creating new features for improved model performance.
