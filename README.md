@@ -32,7 +32,7 @@ This project aims to predict the risk of Coronary Heart Disease (CHD) using mach
 1. Clone this repository:
 
     ```bash
-    $ git clone https://github.com/your_username/heart-disease-prediction.git
+    $ git clone https://github.com/Preksha0420/CHD-Prediction
     $ cd heart-disease-prediction
     ```
 
